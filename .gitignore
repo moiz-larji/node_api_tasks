@@ -1,0 +1,6 @@
+#   
+/Node Task A/node_modules/
+/Task B/node_modules/
+/Node Task A/Screenshots/
+/Task B/Screenshots/
+.env
